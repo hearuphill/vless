@@ -1,6 +1,14 @@
 {
-	"dependencies": {
-		"ws": "^8.16.0",
-		"@types/node": "^20.11.30"
-	}
+    "dependencies": {
+        "ws": "^8.16.0",
+        "@types/node": "^20.11.30"
+    },
+    "name": "vless",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index"
+    },
+   "private":true
 }
