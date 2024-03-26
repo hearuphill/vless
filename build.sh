@@ -1,0 +1,1 @@
+esbuild --bundle --platform=node --minify main.ts --outfile=index.js
